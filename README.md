@@ -18,3 +18,14 @@ Projeto desenvolvido com o objetivo de simular o monitoramento de sistemas espac
 ## Tecnologias
 - Java
 - IntelliJ IDEA
+
+## Prints do Sistema
+
+### Menu Principal e Sensores
+![Menu e Sensores](prints/menu-sensores.png)
+
+### Sistema de Propulsão
+![Propulsão](prints/propulsao.png)
+
+### Dados da Missão
+![Dados da Missão](prints/missao.png)
